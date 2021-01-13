@@ -1,2 +1,2 @@
 # GenPWPushPassword
-Script to generate password in pwpush
+Script to hide password in pwpush
