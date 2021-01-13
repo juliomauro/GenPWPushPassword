@@ -1,5 +1,5 @@
 #!/bin/bash
-# Generate PWPUSH URL PASSWORD
+# Hide password in PWPUSH URL
 # Author: Julio Cesar Mauro (julio.mauro<at>gmail.com)
 # Date: 13/01/2021
 
